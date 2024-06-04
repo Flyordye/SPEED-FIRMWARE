@@ -538,7 +538,7 @@
  *   999 : Dummy Table that ALWAYS reads 100°C or the temperature defined below.
  *
  */
-#define TEMP_SENSOR_0 66
+#define TEMP_SENSOR_0 1
 #define TEMP_SENSOR_1 0
 #define TEMP_SENSOR_2 0
 #define TEMP_SENSOR_3 0
@@ -607,14 +607,14 @@
 
 // Below this temperature the heater will be switched off
 // because it probably indicates a broken thermistor wire.
-#define HEATER_0_MINTEMP   25
-#define HEATER_1_MINTEMP   25
-#define HEATER_2_MINTEMP   25
-#define HEATER_3_MINTEMP   25
-#define HEATER_4_MINTEMP   25
-#define HEATER_5_MINTEMP   25
-#define HEATER_6_MINTEMP   25
-#define HEATER_7_MINTEMP   25
+#define HEATER_0_MINTEMP   0
+#define HEATER_1_MINTEMP   0
+#define HEATER_2_MINTEMP   0
+#define HEATER_3_MINTEMP   0
+#define HEATER_4_MINTEMP   0
+#define HEATER_5_MINTEMP   0
+#define HEATER_6_MINTEMP   0
+#define HEATER_7_MINTEMP   0
 #define BED_MINTEMP        0
 #define CHAMBER_MINTEMP    5
 
