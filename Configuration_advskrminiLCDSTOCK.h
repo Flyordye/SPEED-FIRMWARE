@@ -68,7 +68,7 @@
  *
  * Set this value to 0 to fail on the first error to occur.
  */
-#define THERMOCOUPLE_MAX_ERRORS 15
+#define THERMOCOUPLE_MAX_ERRORS 5
 
 //
 // Custom Thermistor 1000 parameters
@@ -492,7 +492,7 @@
  * the minimum temperature your thermistor can read. The lower the better/safer.
  * This shouldn't need to be more than 30 seconds (30000)
  */
-#define MILLISECONDS_PREHEAT_TIME 15000
+//#define MILLISECONDS_PREHEAT_TIME 15000
 
 // @section extruder
 
