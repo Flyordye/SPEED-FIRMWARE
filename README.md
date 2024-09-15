@@ -10,6 +10,7 @@ special thanks goes to : Colin godsey (direct stepping)
 special thanks goes to : Tombrazier (input shaping)
 (thank you to the team who created linear advance in marlin)
 (special thanks to Paul Paukstelis for Průša Slicer and Aapo Saaristo for Cura to allow M486 commands to cancel objects) 
+Anthony greco helped with slicer coding changes which led to new developments in the overall speed settings
 
 TRULY APPRECIATE ALL OF YOU :)
 
